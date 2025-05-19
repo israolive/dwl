@@ -57,7 +57,7 @@ dwl-ipc-unstable-v2-protocol.c:
 config.h:
 	cp config.def.h $@
 clean:
-	rm -f dwl *.o *-protocol.h
+	rm -f dwl *.o *-protocol.h *-protocol.c
 
 dist: clean
 	mkdir -p dwl-$(VERSION)

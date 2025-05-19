@@ -55,6 +55,18 @@ sudo make install
 - [ipc](https://codeberg.org/dwl/dwl-patches/src/branch/main/patches/ipc)  
     IPC-protocol for dwl, we need it later for our waybar (taskbar).
 
+### Download
+
+```
+wget https://codeberg.org/dwl/dwl-patches/raw/branch/main/patches/rotatetags/rotatetags.patch
+wget https://codeberg.org/dwl/dwl-patches/raw/branch/main/patches/pertag/pertag.patch
+wget https://codeberg.org/dwl/dwl-patches/raw/branch/main/patches/gaps/gaps.patch
+wget https://codeberg.org/dwl/dwl-patches/raw/branch/main/patches/focusdir/focusdir.patch
+wget https://codeberg.org/dwl/dwl-patches/raw/branch/main/patches/btrtile/btrtile-v0.7-gaps.patch
+wget https://codeberg.org/dwl/dwl-patches/raw/branch/main/patches/ipc/ipc.patch
+wget https://codeberg.org/dwl/dwl-patches/raw/branch/main/patches/ipc/ipcpertag.patch
+```
+
 ### How to
 
 ```
